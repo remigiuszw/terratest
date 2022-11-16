@@ -3,3 +3,4 @@
 *.tfstate.backup
 .dccache
 .terraform.lock.hcl
+docker-compose.yml
